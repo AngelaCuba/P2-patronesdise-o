@@ -1,1 +1,1 @@
-# P2-patronesdise-o
+# Patrones de diseño - Segundo parcial
